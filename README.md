@@ -1,0 +1,2 @@
+# AndroidSamples
+Implement new thoughts
